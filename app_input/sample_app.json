@@ -1,0 +1,12 @@
+{
+  "name": "HabitFlare",
+  "subtitle": "Habit Streak Tracker",
+  "description": "Build daily habits and keep your streak alive. Track routines, set custom reminders, view progress with colorful charts, and unlock badges for staying consistent.",
+  "features": [
+    "Daily habit tracking with streak counters",
+    "Custom reminders for each habit",
+    "Colorful progress charts",
+    "Badges and rewards for consistency",
+    "Home screen widgets"
+  ]
+}

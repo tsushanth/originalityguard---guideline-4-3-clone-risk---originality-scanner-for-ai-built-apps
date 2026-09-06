@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1001,
+    "name": "StreakForge",
+    "subtitle": "Habit Tracker & Streaks",
+    "description": "Build daily habits and keep your streak alive. Track routines, set custom reminders, view progress with colorful charts, and unlock badges for staying consistent.",
+    "genre": "Health & Fitness",
+    "url": ""
+  },
+  {
+    "id": 1002,
+    "name": "DailyWin",
+    "subtitle": "Simple Habit Tracker",
+    "description": "A minimalist habit tracker to build routines one day at a time. Log habits, view streaks, and get gentle reminders.",
+    "genre": "Productivity",
+    "url": ""
+  },
+  {
+    "id": 1003,
+    "name": "MindfulMinutes",
+    "subtitle": "Guided Meditation",
+    "description": "Short guided meditations for stress relief, sleep, and focus. Track your mindfulness streak and breathe easier.",
+    "genre": "Health & Fitness",
+    "url": ""
+  },
+  {
+    "id": 1004,
+    "name": "TaskTide",
+    "subtitle": "To-Do List & Planner",
+    "description": "Organize your day with lists, due dates, and recurring tasks. Sync across devices and collaborate with others.",
+    "genre": "Productivity",
+    "url": ""
+  },
+  {
+    "id": 1005,
+    "name": "PennyTrail",
+    "subtitle": "Expense Tracker",
+    "description": "Track spending, set budgets by category, and see where your money goes each month with simple charts.",
+    "genre": "Finance",
+    "url": ""
+  },
+  {
+    "id": 1006,
+    "name": "FocusFlow",
+    "subtitle": "Pomodoro Timer",
+    "description": "Stay focused with Pomodoro-style work sessions, break reminders, and productivity stats.",
+    "genre": "Productivity",
+    "url": ""
+  },
+  {
+    "id": 1007,
+    "name": "RoutineRise",
+    "subtitle": "Morning Routine Builder",
+    "description": "Design a custom morning routine, get step-by-step reminders, and build consistency with streak tracking.",
+    "genre": "Health & Fitness",
+    "url": ""
+  },
+  {
+    "id": 1008,
+    "name": "ChoreChamp",
+    "subtitle": "Family Chore Tracker",
+    "description": "Assign chores to family members, track completion, and reward kids with points for finished tasks.",
+    "genre": "Lifestyle",
+    "url": ""
+  },
+  {
+    "id": 1009,
+    "name": "GoalGrid",
+    "subtitle": "Goal & Habit Planner",
+    "description": "Set long-term goals, break them into daily habits, and track streaks with a visual grid calendar.",
+    "genre": "Productivity",
+    "url": ""
+  },
+  {
+    "id": 1010,
+    "name": "SleepDrift",
+    "subtitle": "Sleep Sounds & Tracker",
+    "description": "Fall asleep faster with ambient sounds and track your sleep patterns over time.",
+    "genre": "Health & Fitness",
+    "url": ""
+  }
+]
